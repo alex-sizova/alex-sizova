@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @alex-sizova
+- 👀 I’m interested in Javascript
